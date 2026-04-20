@@ -54,7 +54,7 @@ except ImportError:
 # =========================
 # Konfiguracija
 # =========================
-CSV_PATH = Path("/Users/4c/Desktop/GHQ/data/loto7hh_4600_k31.csv")
+CSV_PATH = Path("/data/loto7hh_4600_k31.csv")
 N_NUMBERS = 7
 N_MAX = 39
 
